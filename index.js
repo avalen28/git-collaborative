@@ -1,4 +1,4 @@
-function newFunc() {
+function newFInction() {
   console.log("I'm very new in this mandanguita");
 }
 
