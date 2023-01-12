@@ -1,10 +1,10 @@
 function newFunc() {
-    console.log("I'm very new")
+  console.log("I'm very new in this mandanguita");
 }
 
-newFunc()
+newFunc();
 function megaCool() {
-  console.log("I might be the coolest ever")
+  console.log("I might be the coolest ever");
   return 2 + 2;
 }
 
